@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+
+}
+.btn{
+    width: 150px;
+    height: 80px;
+    border-bottom-left-radius: 30%;
+    
+}
+.row{
+    margin: 50px 50px;
+}
+.firstimg{
+    margin-left: 50px;
+    border-top: 50%;
+}

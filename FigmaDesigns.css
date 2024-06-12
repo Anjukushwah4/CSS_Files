@@ -1,0 +1,244 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.btn{
+    width: 120px;
+    height: 42px;
+    color: white;
+    margin-right: 20px;
+    background-color: #f27c3b;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+.btn1{
+    width: 70px;
+    height: 40px;
+    background-color: black;
+    color:white;
+    border-bottom-right-radius: 13px;
+    border-top-left-radius: 13px;
+}
+.row h2{
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 35px;
+    margin: 60px 50px;
+}
+.row p{
+    margin-left: 50px;
+}
+.firstimg{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    position: absolute;
+    top: 320px;
+    left: -120px;
+    transform: rotate(60deg);
+}
+.secondimg{
+    height:520px;
+    width:400px;
+    margin: 20px 0px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.btn-dark{
+    width: 80px;
+    height: 42px;
+    color: white;
+    margin-left: 50px;
+    margin-top: 10px;
+    background-color: black;
+    border-bottom-right-radius: 13px;
+    border-top-left-radius: 13px;
+
+}
+.btn-warning{
+    width: 120px;
+    height: 42px;
+    color: white;
+    /* margin-left: 10px; */
+    background-color: #f27c3b;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+.icons{
+    margin-left: 50px;
+
+}
+.fa-brands{
+    margin-top: 40px;
+}
+.thirdimg{
+    margin-left: 150px;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+.seconddiv{
+    margin-top: 80px;
+}
+
+.testimonials{
+    margin: 60px auto;
+  }
+  .testimonials h1{
+      text-align: center;
+      font-family: sans-serif;
+      font-weight: bolder;
+      padding-bottom: 10px;
+      text-transform: uppercase;
+  }
+
+  /* .testimonials h1::after{
+      content: '';
+      background: #ff9800;
+      display: block;
+      height: 3px;
+      width: 170px;
+      margin: 20px auto 5px;
+  } */
+  .testimonials .row{
+      margin-top: 40px;
+  }
+  .col-md-3{
+      margin: 40px auto;
+  }
+  .profile{
+      height: 250px;
+      width: 200px;
+      padding: 70px 10px 10px;
+      background-color: #efefef;
+      border-top-left-radius: 50px;
+      border-bottom-right-radius: 50px;
+      border-bottom-left-radius: 10px;
+      border-top-right-radius: 10px;
+  }
+  .profile img{
+      top: -80px;
+      position: absolute;
+      left: calc(50% - 100px);
+      border: 10px solid white;
+  
+  }
+  .user{
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+  }
+  .profile h3{
+      font-size: 20px;
+      margin-top: 15px;
+      color: #ff9800;
+  }
+  
+  span{
+      font-size: 12px;
+      color: #333;
+  }
+  blockquote{
+      font-size: 16px;
+      line-height: 30px;
+      padding-top: 15px;
+  }
+  
+  blockquote::before{
+      contain: '\93';
+      font-size: 50px;
+      position: relative;
+      color: #ff9800;
+      line-height: 20px;
+      bottom: -15px;
+      right: 5px;
+  }
+  blockquote::after{
+      contain: '\94';
+      font-size: 50px;
+      position: relative;
+      color: #ff9800;
+      line-height: 10px;
+      bottom: -15px;
+      left: 5px;
+  }
+  .profile:hover{
+      box-shadow: 0 0 15px 5px rgba(0, 0, 0, 0.2);
+      cursor: pointer;
+      transition: 0.5s;
+  }
+  .div3{
+    margin: 40px 50px;
+    
+  }
+  .heading{
+    margin-left: 50px;
+    font-family: sans-serif;
+    font-weight: bolder;
+  }
+  body{margin-top:20px;}
+.social-icon.social li a {
+    color: #adb5bd;
+    border-color: #adb5bd;
+}
+.social-icon li a {
+    color: #3c4858;
+    border: 1px solid #3c4858;
+    display: inline-block;
+    height: 32px;
+    text-align: center;
+    font-size: 15px;
+    width: 32px;
+    line-height: 27px;
+    -webkit-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+    overflow: hidden;
+    position: relative;
+}
+.rounded {
+    border-radius: 5px !important;
+}
+footer {
+  position: relative;
+  padding: 50px 0;
+}
+
+footer .logo-footer {
+  font-size: 28px;
+}
+
+footer.footer-bar {
+  padding: 30px 0;
+  border-top: 1px solid #495057;
+  
+}
+.footer-bar{
+    background-color: #f78b50;
+    
+}
+
+footer .footer-text {
+  color: #adb5bd;
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+
+footer .footer-text:hover {
+  color: #dee2e6;
+}
+.footer1{
+  margin-top: 50px;
+}
+@media screen and (width: 399px) {
+    .secondimg{
+        height: 300px;
+    }
+    
+}

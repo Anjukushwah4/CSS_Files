@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.top{
+    
+            flex: 1;
+           justify-content: center;
+           align-items: center;
+        
+
+}
+.bottom{
+    
+    width:400px;  
+    background-color: white;
+    padding: 30px;
+}

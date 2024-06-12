@@ -1,0 +1,111 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(201, 236, 131);
+}
+
+.firstdiv {
+    margin-top: 50px;
+    width: 450px;
+    height: 620px;
+    box-shadow: 5px 5px 5px 5px lightgrey;
+    background-color: white;
+
+}
+
+.firstdiv p {
+    padding: 5px 50px;
+
+}
+
+.firstdiv span {
+    margin-left: 100px;
+}
+
+.top img {
+    width: 450px;
+    height: 300px;
+}
+
+.top {
+    height: 300px;
+    width: 450px;
+
+}
+
+.bottom {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.hra {
+    margin-top: 100px;
+}
+
+
+.secdiv {
+    margin-top: 90px;
+    width: 690px;
+    height: 550px;
+    box-shadow: 5px 5px 5px 5px grey;
+    background-color: white;
+
+}
+.secdiv h2{
+   margin: 20px 30px;
+   color: yellowgreen;
+}
+.secdiv span{
+    color: black;
+}
+
+.top2 {
+    float: left;
+    width: 300px;
+    margin-left: 25px;
+    font-size: 20px;
+    text-align: left;
+    
+}
+.bottom p{
+    color: greenyellow;
+}
+.fa-brands{
+    color: black;
+}
+
+.bottom2 {
+    float: left;
+    width: 300px;
+    margin-left: 30px;
+
+}
+.top3{
+     float: left;
+    margin-left: 150px
+}
+.bottom3{
+    float: left;
+    margin-left: 100px;
+}
+.top3 h5{
+    color: greenyellow;
+}
+.bottom3 h5{
+    color: greenyellow;
+}
+.top3 button{
+    height: 28px;
+    background-color: black;
+    color: white;
+    font-size: 13px;
+}
+.bottom3 button{
+    height: 28px;
+    background-color: black;
+    color: white;
+    font-size: 13px;
+}
+.progress{
+    background-color: white;
+}
